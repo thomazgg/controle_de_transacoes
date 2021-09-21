@@ -23,8 +23,6 @@
 
 ## 🔖 Informações sobre o que foi usado:
 
----
-
 **👤 Classe Pessoa:**
 
 > ## [Pessoa.java]()
@@ -59,8 +57,6 @@
 ---
 
 ## 📝 Licença
-
----
 
 ### [🔗 Link do projeto do github]()
 
