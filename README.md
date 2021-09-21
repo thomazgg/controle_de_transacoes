@@ -21,7 +21,9 @@
 
 ---
 
-## 🔖 Informações sobre o que foi usado:
+### 🔖 Informações sobre o que foi usado:
+
+---
 
 **👤 Classe Pessoa:**
 
@@ -56,7 +58,9 @@
 
 ---
 
-## 📝 Licença
+### 📝 Licença
+
+---
 
 ### [🔗 Link do projeto do github]()
 
